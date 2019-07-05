@@ -1,0 +1,6 @@
+export const ACTION_NAME = 'ACTION_NAME';
+export const CHANGE_TEXT = 'CHANGE_TEXT';
+export const ADD_USER = 'ADD_USER';
+
+export const SET_INGREDIENTS = 'SET_INGREDIENTS';
+export const FETCH_INGREDIENTS_FAILS = 'FETCH_INGREDIENTS_FAILS';
